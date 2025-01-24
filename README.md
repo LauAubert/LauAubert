@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm Lautaro Aubert 👨‍💻 </h1>
 
-<img src="/workspaces/LauAubert/me-coding.jpg" width="300" align='right'>
+<img src="https://raw.githubusercontent.com/LauAubert/LauAubert/refs/heads/main/me-coding.jpg" width="300" align='right'>
 <h3 align="center">  Avionic Technician | Full-Stack Developer </h3> <br>
 
 
