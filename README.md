@@ -20,7 +20,7 @@
 ---
 Currently seeking my first professional experience in IT with a dynamic company that values innovation and growth. Eager to leverage my technical skills and strong problem-solving abilities to contribute value, learn from experienced professionals, and make a meaningful impact. Passionate about continuous improvement and excited to take on new challenges that foster both personal and professional development.
 
-<h1 align="center"> Hello, I'm Lautaro Aubert 👨‍💻 </h1>
+<h1 align="center"> Contact 📩 </h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/lau-aubert?locale=en_US/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&&link=https://www.linkedin.com/in/lau-aubert?locale=en_US/" alt="Linkedin Badge"/> 
