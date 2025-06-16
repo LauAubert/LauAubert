@@ -10,7 +10,7 @@
 - Currently in 4th year of systems engineering, *GPA: 8.78*
 - Skills
     - **Python**, Django, Flask, Selenium.
-    - **JavaScript**, TypeScript, React, JQuery.
+    - **JavaScript**, TypeScript, React, React Native, JQuery.
     - Agile Methodologies, Scrum, leadership.
     - Requirement analysis, UML modelling.
     - Linux, Docker
@@ -18,7 +18,7 @@
 - **Fun fact:** Drinking mate 🧉 increases my coding skills by 5%.
 
 ---
-Currently seeking my first professional experience in IT with a dynamic company that values innovation and growth. Eager to leverage my technical skills and strong problem-solving abilities to contribute value, learn from experienced professionals, and make a meaningful impact. Passionate about continuous improvement and excited to take on new challenges that foster both personal and professional development.
+Currently working as a front-end developer for Widergy S.R.L. (I use another GitHub account)
 
 <h1 align="center"> Contact 📩 </h1>
 <div align="center">
